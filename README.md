@@ -11,7 +11,6 @@ I'm a Full-Stack Developer passionate about technology and simplifying people's 
 - 🌐 I have a background in Digital Marketing. I worked on several digital projects (multi-channel) for some of the most reputed companies, with Portuguese and International cross-functional teams (Spanish, Angolan, German, and Japanese).
 - 🏃🏻‍♀️ I love running and challenging myself.
 
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,postman,sass,tailwind,bootstrap,vite,npm,git,vscode,github,)](https://skillicons.dev)
 
@@ -20,11 +19,6 @@ I'm a Full-Stack Developer passionate about technology and simplifying people's 
 - 🚀 Practicing Full Stack Web Development.
   - Exploring and learning Typescript.
   - Navigating through the world of MySQL.
-
- ## 🏆 Achievements
-
-- 🌟 Completed with success a Web Development Bootcamp at Ironhack Tech school.
-
 
 ## 📬 Get in Touch
 
