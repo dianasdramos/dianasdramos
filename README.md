@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer passionate about technology and simplifying people's lives. I believe in simplicity and efficiency to create powerful solutions and I’m committed to continuous learning, and staying updated on technologies and best practices.
 
-![dianasdramos's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<dianasdramos>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
