@@ -27,4 +27,4 @@ I'm a Full-Stack Developer passionate about technology and simplifying people's 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://twitter.com/introvertedbot)
+- Connect with me on [Linkedin]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/dianaramos/))
