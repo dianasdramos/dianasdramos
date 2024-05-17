@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Diana! 👋
 
-<!--
-**dianasdramos/dianasdramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Developer passionate about technology and simplifying people's lives. I believe in simplicity and efficiency to create powerful solutions and I’m committed to continuous learning, and staying updated on technologies and best practices.
 
-Here are some ideas to get you started:
+![dianasdramos's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I'm currently looking for an opportunity to get my first position as a developer.
+- 🌐 I have a background in Digital Marketing. I worked on several digital projects (multi-channel) for some of the most reputed companies, with Portuguese and International cross-functional teams (Spanish, Angolan, German, and Japanese).
+- 🏃🏻‍♀️ I love running and challenging myself.
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,express,mongodb,postman,sass,tailwind,bootstrap,vite,npm,git,vscode,github,)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Practicing Full Stack Web Development.
+  - Exploring and learning Typescript.
+  - Navigating through the world of MySQL.
+
+ ## 🏆 Achievements
+
+- 🌟 Completed with success a Web Development Bootcamp at Ironhack Tech school.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Linkedin](https://twitter.com/introvertedbot)
