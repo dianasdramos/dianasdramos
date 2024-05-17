@@ -12,7 +12,7 @@ I'm a Full-Stack Developer passionate about technology and simplifying people's 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,express,mongodb,postman,sass,tailwind,bootstrap,vite,npm,git,vscode,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,postman,sass,tailwind,bootstrap,vite,npm,git,vscode,github,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
