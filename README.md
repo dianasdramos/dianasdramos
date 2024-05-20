@@ -14,6 +14,8 @@ I'm a Full-Stack Developer passionate about technology and simplifying people's 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,postman,sass,tailwind,bootstrap,vite,npm,git,vscode,github,)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianasdramos&layout=compact)
+
 ## 🌱 Currently Exploring
 
 - 🚀 Practicing Full Stack Web Development.
