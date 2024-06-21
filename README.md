@@ -6,8 +6,7 @@ I'm a Full-Stack Developer passionate about technology and simplifying people's 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently looking for an opportunity to get my first position as a developer.
-- 💻 I recently completed a Web Development Bootcamp.
+- 💻 I'm a Redwood Developer Trainee @Siemens
 - 🌐 I have a background in Digital Marketing. I worked on several digital projects (multi-channel) for some of the most reputed companies, with Portuguese and International cross-functional teams (Spanish, Angolan, German, and Japanese).
 - 🏃🏻‍♀️ I love running and challenging myself.
 
