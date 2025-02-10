@@ -6,8 +6,6 @@ I have a background in digital marketing, which gives me a lot of insights into 
 
 As a self-motivated and open-minded person, I love learning new things and being part of the solution to new challenges and the evolution of things.
 
-![dianasdramos's Stats](https://github-readme-stats.vercel.app/api?username=dianasdramos&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,postman,tailwind,vite,npm,git,vscode,github,)](https://skillicons.dev)
 
