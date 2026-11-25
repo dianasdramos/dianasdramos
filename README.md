@@ -3,7 +3,7 @@
 I'm a tech-driven problem solver with a creative edge.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,postman,tailwind,vite,npm,git,vscode,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,python,js,html,css,react,nodejs,express,mongodb,postman,tailwind,vite,npm,git,vscode,github,)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 
